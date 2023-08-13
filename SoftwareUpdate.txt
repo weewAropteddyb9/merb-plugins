@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
