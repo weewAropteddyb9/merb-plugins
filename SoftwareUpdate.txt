@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
