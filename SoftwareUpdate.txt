@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
