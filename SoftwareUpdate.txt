@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add C++ Classify inference example (#6868)
