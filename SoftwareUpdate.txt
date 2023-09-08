@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
