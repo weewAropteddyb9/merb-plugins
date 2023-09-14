@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
