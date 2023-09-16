@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Reverse IoU threshold for NMS docs descriptions (#9151)
