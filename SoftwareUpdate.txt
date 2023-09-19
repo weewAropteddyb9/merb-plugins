@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
