@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add new YOLOv8 OBB model metrics (#7379)
