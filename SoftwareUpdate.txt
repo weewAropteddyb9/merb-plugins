@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add simple-utilities.md Docs page (#8269)
