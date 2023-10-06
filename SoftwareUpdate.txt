@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
