@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add OBB benchmarks to CI (#7777)
