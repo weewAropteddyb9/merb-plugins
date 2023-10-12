@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix heatmaps width-height order bug (#7184)
