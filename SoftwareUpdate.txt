@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+New HUB Cloud Training docs page (#8174)
