@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
