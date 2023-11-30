@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+fix for KeyError: 'epoch' (#48)
