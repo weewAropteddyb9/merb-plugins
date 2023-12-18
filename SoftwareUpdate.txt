@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
