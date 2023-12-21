@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
