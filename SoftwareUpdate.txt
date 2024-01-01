@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add new YOLOv8 OBB model metrics (#7379)
