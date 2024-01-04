@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
