@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Allow Annotator PIL.Image inputs (#8397)
