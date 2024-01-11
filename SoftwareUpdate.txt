@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
