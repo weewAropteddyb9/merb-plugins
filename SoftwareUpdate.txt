@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
