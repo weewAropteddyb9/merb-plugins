@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
