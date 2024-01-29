@@ -1,1 +1,1 @@
-add logs
+Update pyproject.toml and Docs (#7274)
