@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
