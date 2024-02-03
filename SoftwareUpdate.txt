@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
