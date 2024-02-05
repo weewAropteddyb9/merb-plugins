@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
