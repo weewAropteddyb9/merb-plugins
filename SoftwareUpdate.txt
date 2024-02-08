@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
