@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update CI.md with CI links (#8786)
