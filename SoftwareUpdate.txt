@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+YOLOv8 INT8 TFLite Inference Example (#7317)
