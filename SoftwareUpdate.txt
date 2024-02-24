@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Explorer with LanceDB, Actions and Docs updates (#7487)
