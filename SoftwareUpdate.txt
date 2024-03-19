@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
