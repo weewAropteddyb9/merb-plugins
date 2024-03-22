@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Rename model_id to model.id (#8447)
