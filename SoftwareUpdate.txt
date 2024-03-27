@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Allow Annotator PIL.Image inputs (#8397)
