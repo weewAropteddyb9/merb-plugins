@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
