@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add YOLOv9 Docs page (#8478)
