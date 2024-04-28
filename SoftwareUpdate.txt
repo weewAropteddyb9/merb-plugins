@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
