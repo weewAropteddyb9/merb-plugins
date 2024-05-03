@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
