@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Update OpenVINO INT8 export (#7515)
