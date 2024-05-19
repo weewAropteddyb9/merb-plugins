@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
