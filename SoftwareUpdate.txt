@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update Twitter icon in Docs (#7711)
