@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
